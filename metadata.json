@@ -1,0 +1,6 @@
+{
+  "name": "Claude SEO Engine | Autonomous Multi-Agent Suite",
+  "description": "Autonomous Claude-powered SEO suite featuring Keyword Intelligence, Content Quality Loop, and Backlink Engine orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
